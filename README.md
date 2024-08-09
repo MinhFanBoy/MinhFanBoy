@@ -8,5 +8,3 @@
 MinhFanBoy/MinhFanBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![image](https://github.com/user-attachments/assets/383389cf-cdbe-44a6-b653-e45519e42c9b)
